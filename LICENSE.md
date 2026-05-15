@@ -1,4 +1,4 @@
-# 
+# Enhance NoMachine for PC | NoMachine for Windows with vip NoMachine for PC | NoMachine for Windows Module | session-management + UAC-prompt-handling, the #1 module. Includes
 
 
 
